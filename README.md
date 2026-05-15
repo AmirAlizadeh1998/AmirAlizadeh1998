@@ -13,6 +13,3 @@ I'm a passionate developer who started coding back in 2019. I have a strong back
 **Architecture & Libraries:** MVVM, MVI, Dagger-Hilt, Retrofit, Room, Coroutines  
 **Web & AI:** Python, PHP, Prompt Engineering (ChatGPT, Gemini, Copilot)  
 **Others:** Git, REST APIs, IoT Integration
-
-### 📊 GitHub Stats
-![Amir's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirAlizadeh1998&show_icons=true&theme=tokyonight)
