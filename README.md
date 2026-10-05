@@ -4,7 +4,7 @@
 I'm a passionate developer who started coding back in 2019. I have a strong background in Android development and IoT, and currently, I'm focused on AI, Python, and building smart chatbots. I leverage AI tools to write cleaner code faster! 💻🤖
 
 - 🔭 **Currently working on:** Advanced Android Apps & AI Chatbots
-- 🌱 **Currently exploring:** Python, PHP, and AI-Assisted Development
+- 🌱 **Currently exploring:** Python, PHP, Golang and AI-Assisted Development
 - 💬 **Ask me about:** Kotlin, Jetpack Compose, MVVM/MVI, HILT, Room, Prompt Engineering
 - 📫 **How to reach me:** You can find my LinkedIn and Telegram links on my profile!
 
